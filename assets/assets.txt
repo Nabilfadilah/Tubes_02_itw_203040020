@@ -1,0 +1,31 @@
+assets
+IMG :
+    slider :
+    1.slider1.jpg   (property of unsplash.com)
+
+    clients :
+    1.madiri.png    (property of Google)
+    2.telkomsel.png (property of Google)
+    3.magento.png   (property of Google)
+    4.clients1.jpg  (property of unsplash.com)
+
+    portfolio :
+    1.pf1.png       (property of Google)
+    2.pf2.png       (property of Google)
+    3.pf3.png       (property of Google)
+    4.pf4.png       (property of Google)
+    5.pf5.png       (property of Google)
+    6.pf6.png       (property of Google)
+    7.pf7.png       (property of Google)
+    8.pf8.png       (property of Google)
+    9.pf9.png       (property of Google)
+    10.pf10.png     (property of Google)
+    11.pf11.png     (property of Google)
+    12.pf12.png     (property of Google)
+    13.pf13.png     (property of Google)
+    14.pf14.png     (property of Google)
+    15.pf15.png     (property of Google)
+    16.pf16.png     (property of Google)
+
+    footer :
+    1.jn.png        (property of Google)
